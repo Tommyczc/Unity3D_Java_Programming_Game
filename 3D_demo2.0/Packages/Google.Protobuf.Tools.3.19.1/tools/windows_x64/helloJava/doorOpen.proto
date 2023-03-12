@@ -1,0 +1,8 @@
+syntax ="proto3";
+option java_package="stationCentre.Proto.door";
+
+    message DoorOpen
+{
+string room=1;
+string numOfDoor=2;
+}

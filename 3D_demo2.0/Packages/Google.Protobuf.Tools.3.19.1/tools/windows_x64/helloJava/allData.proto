@@ -1,0 +1,8 @@
+syntax ="proto3";
+option java_package="stationCentre.Proto";
+    message Data
+{
+string dataType=1;
+string room=2;
+map<string, string> info=3;
+}

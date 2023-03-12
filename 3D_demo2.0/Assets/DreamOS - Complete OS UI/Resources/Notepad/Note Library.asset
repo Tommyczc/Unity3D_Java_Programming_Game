@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e977cf7595e06794dbab0ebfd8b5b16f, type: 3}
+  m_Name: Note Library
+  m_EditorClassIdentifier: 
+  notes:
+  - noteTitle: How to call a method
+    noteContent: For example, In medic room, if you want to find out what kind of
+      method have, please type "Medic.getApi();"
+    isDeleted: 0
+    isCustom: 0
+    isModContent: 0
+    modHelper: 0
+  - noteTitle: How to write a method
+    noteContent: 
+    isDeleted: 0
+    isCustom: 0
+    isModContent: 0
+    modHelper: 0

@@ -1,0 +1,8 @@
+syntax ="proto3";
+option java_package="stationCentre.Proto.codeRunner";
+
+    message Code
+{
+string room=1;
+string code=2;
+}

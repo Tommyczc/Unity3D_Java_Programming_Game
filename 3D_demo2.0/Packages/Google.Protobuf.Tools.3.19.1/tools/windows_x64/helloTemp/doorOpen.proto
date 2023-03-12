@@ -1,0 +1,7 @@
+syntax ="proto3";
+package Proto.door;
+    message doorOpen
+{
+string room=1;
+string numOfDoor=2;
+}

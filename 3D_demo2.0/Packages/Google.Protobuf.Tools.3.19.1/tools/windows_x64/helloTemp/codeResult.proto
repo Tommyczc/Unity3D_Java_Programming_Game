@@ -1,0 +1,8 @@
+syntax ="proto3";
+package Proto.codeRunner;
+    message CodeResult
+{
+string room=1;
+string output=2;
+string error=3;
+}

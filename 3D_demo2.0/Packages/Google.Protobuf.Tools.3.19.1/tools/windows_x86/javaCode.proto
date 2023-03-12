@@ -1,0 +1,7 @@
+syntax ="proto3";
+package Proto.codeRunner;
+    message Code
+{
+string room=1;
+string code=2;
+}
