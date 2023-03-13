@@ -87,7 +87,7 @@ TextureImporter:
       213: 21300054
     second: statBars_27
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
@@ -108,6 +108,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -146,9 +147,46 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 1
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
     maxTextureSize: 1024
     resizeAlgorithm: 0
     textureFormat: -1
@@ -760,6 +798,35 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      statBars_15: 21300030
+      statBars_11: 21300022
+      statBars_25: 21300050
+      statBars_27: 21300054
+      statBars_10: 21300020
+      statBars_17: 21300034
+      statBars_4: 21300008
+      statBars_0: 21300000
+      statBars_8: 21300016
+      statBars_14: 21300028
+      statBars_13: 21300026
+      statBars_12: 21300024
+      statBars_19: 21300038
+      statBars_23: 21300046
+      statBars_24: 21300048
+      statBars_20: 21300040
+      statBars_1: 21300002
+      statBars_3: 21300006
+      statBars_6: 21300012
+      statBars_16: 21300032
+      statBars_22: 21300044
+      statBars_9: 21300018
+      statBars_7: 21300014
+      statBars_26: 21300052
+      statBars_2: 21300004
+      statBars_21: 21300042
+      statBars_18: 21300036
+      statBars_5: 21300010
   spritePackingTag: 
   pSDRemoveMatte: 1
   pSDShowRemoveMatteOption: 1

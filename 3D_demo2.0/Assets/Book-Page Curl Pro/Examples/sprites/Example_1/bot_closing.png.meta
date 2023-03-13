@@ -294,7 +294,7 @@ TextureImporter:
       213: 21300192
     second: bot_closing_96
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
@@ -315,6 +315,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -353,9 +354,46 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 1
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -2416,6 +2454,104 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      bot_closing_36: 21300072
+      bot_closing_48: 21300096
+      bot_closing_37: 21300074
+      bot_closing_54: 21300108
+      bot_closing_66: 21300132
+      bot_closing_16: 21300032
+      bot_closing_96: 21300192
+      bot_closing_43: 21300086
+      bot_closing_50: 21300100
+      bot_closing_81: 21300162
+      bot_closing_42: 21300084
+      bot_closing_79: 21300158
+      bot_closing_85: 21300170
+      bot_closing_57: 21300114
+      bot_closing_30: 21300060
+      bot_closing_95: 21300190
+      bot_closing_65: 21300130
+      bot_closing_22: 21300044
+      bot_closing_24: 21300048
+      bot_closing_74: 21300148
+      bot_closing_44: 21300088
+      bot_closing_32: 21300064
+      bot_closing_41: 21300082
+      bot_closing_91: 21300182
+      bot_closing_5: 21300010
+      bot_closing_17: 21300034
+      bot_closing_7: 21300014
+      bot_closing_33: 21300066
+      bot_closing_52: 21300104
+      bot_closing_88: 21300176
+      bot_closing_84: 21300168
+      bot_closing_39: 21300078
+      bot_closing_89: 21300178
+      bot_closing_6: 21300012
+      bot_closing_47: 21300094
+      bot_closing_15: 21300030
+      bot_closing_94: 21300188
+      bot_closing_12: 21300024
+      bot_closing_59: 21300118
+      bot_closing_60: 21300120
+      bot_closing_67: 21300134
+      bot_closing_45: 21300090
+      bot_closing_46: 21300092
+      bot_closing_49: 21300098
+      bot_closing_13: 21300026
+      bot_closing_35: 21300070
+      bot_closing_86: 21300172
+      bot_closing_20: 21300040
+      bot_closing_76: 21300152
+      bot_closing_72: 21300144
+      bot_closing_64: 21300128
+      bot_closing_21: 21300042
+      bot_closing_10: 21300020
+      bot_closing_18: 21300036
+      bot_closing_58: 21300116
+      bot_closing_93: 21300186
+      bot_closing_80: 21300160
+      bot_closing_92: 21300184
+      bot_closing_26: 21300052
+      bot_closing_75: 21300150
+      bot_closing_9: 21300018
+      bot_closing_8: 21300016
+      bot_closing_73: 21300146
+      bot_closing_14: 21300028
+      bot_closing_78: 21300156
+      bot_closing_34: 21300068
+      bot_closing_31: 21300062
+      bot_closing_2: 21300004
+      bot_closing_82: 21300164
+      bot_closing_70: 21300140
+      bot_closing_25: 21300050
+      bot_closing_1: 21300002
+      bot_closing_71: 21300142
+      bot_closing_77: 21300154
+      bot_closing_63: 21300126
+      bot_closing_68: 21300136
+      bot_closing_3: 21300006
+      bot_closing_38: 21300076
+      bot_closing_90: 21300180
+      bot_closing_83: 21300166
+      bot_closing_4: 21300008
+      bot_closing_55: 21300110
+      bot_closing_0: 21300000
+      bot_closing_87: 21300174
+      bot_closing_27: 21300054
+      bot_closing_40: 21300080
+      bot_closing_28: 21300056
+      bot_closing_29: 21300058
+      bot_closing_19: 21300038
+      bot_closing_69: 21300138
+      bot_closing_62: 21300124
+      bot_closing_56: 21300112
+      bot_closing_11: 21300022
+      bot_closing_61: 21300122
+      bot_closing_53: 21300106
+      bot_closing_23: 21300046
+      bot_closing_51: 21300102
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
